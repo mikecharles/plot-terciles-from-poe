@@ -1,0 +1,7 @@
+basemap
+matplotlib
+numpy
+scipy
+cpc.stats
+cpc.geogrids
+cpc.geoplot
